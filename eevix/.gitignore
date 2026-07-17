@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+.env
+models/
+data/
+train/
+.DS_Store
+*.log
+*.swp
+*.swo
